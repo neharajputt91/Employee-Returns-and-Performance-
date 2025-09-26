@@ -1,7 +1,7 @@
-
 # Employee Returns and Performance Dashboard
 
-View Dashboard PDF
+[![Power BI Dashboard Page 1](https://raw.githubusercontent.com/yourusername/Employee-Returns-Performance-Dashboard/main/dashboard_page1.png)](https://raw.githubusercontent.com/yourusername/Employee-Returns-Performance-Dashboard/main/dashboard_page1.png)
+[![Power BI Dashboard Page 2](https://raw.githubusercontent.com/yourusername/Employee-Returns-Performance-Dashboard/main/dashboard_page2.png)](https://raw.githubusercontent.com/yourusername/Employee-Returns-Performance-Dashboard/main/dashboard_page2.png)
 
 ## Project Overview
 This repository contains a Power BI dashboard analyzing sales, returns, and employee performance for US-based orders from 2014-2016. The dashboard highlights key metrics like return rates, total sales (~194K), profit by region, and employee-specific returns. Data was cleaned in Power Query, modeled with relationships, and enhanced with DAX measures for YoY comparisons and KPIs.
@@ -59,4 +59,4 @@ Fork the repo, make changes (e.g., new DAX), and submit a pull request.
 MIT License - feel free to use and modify.
 
 ## Contact
-Created by [Neha Singh]. Questions? Open an issue or email [neha.rajputt91@gmail.com].
+Created by [Your Name]. Questions? Open an issue or email [your.email@example.com].
