@@ -1,8 +1,7 @@
 
 # Employee Returns and Performance Dashboard
 
-[![Power BI Dashboard Screenshot](link-to-your-first-screenshot.png)](link-to-your-github-raw-screenshot)  
-[![Power BI Dashboard Page 2 Screenshot](link-to-your-second-screenshot.png)](link-to-your-github-raw-screenshot)
+View Dashboard PDF
 
 ## Project Overview
 This repository contains a Power BI dashboard analyzing sales, returns, and employee performance for US-based orders from 2014-2016. The dashboard highlights key metrics like return rates, total sales (~194K), profit by region, and employee-specific returns. Data was cleaned in Power Query, modeled with relationships, and enhanced with DAX measures for YoY comparisons and KPIs.
