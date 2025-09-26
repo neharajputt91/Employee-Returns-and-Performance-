@@ -60,4 +60,4 @@ Fork the repo, make changes (e.g., new DAX), and submit a pull request.
 MIT License - feel free to use and modify.
 
 ## Contact
-Created by [Your Name]. Questions? Open an issue or email [your.email@example.com].
+Created by [Neha Singh]. Questions? Open an issue or email [neha.rajputt91@gmail.com].
